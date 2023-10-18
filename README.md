@@ -1,2 +1,2 @@
 # html-scss-css
-Todat,s exercises+
+Today,s exercises+
