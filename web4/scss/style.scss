@@ -1,0 +1,9 @@
+@import'variables';
+@import'mixins';
+$color_main:darkblue;
+.card{
+    border: 1px solid $color_main;
+    &:hover{
+        box-shadow: 0 0 10px rgba(0, 0, 139, 0.836);
+    }
+}

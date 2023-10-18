@@ -1,0 +1,6 @@
+.card {
+  border: 1px solid darkblue;
+}
+.card:hover {
+  box-shadow: 0 0 10px rgba(0, 0, 139, 0.836);
+}/*# sourceMappingURL=style.css.map */

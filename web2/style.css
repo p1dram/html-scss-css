@@ -1,0 +1,8 @@
+.card{
+    border: darkblue;
+    
+}
+.card:hover{
+    border: darkblue;
+    box-shadow: 0 0 15 10px rgba(0, 0, 255, 0.315);
+}
